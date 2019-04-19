@@ -10,7 +10,7 @@ public:
 	mortgage();
 
 	//constructor
-	//takes loan, rate, and years
+	//takes loan, rate, and years 
 	//returns: nothing
 	mortgage(float, float, float);
 
